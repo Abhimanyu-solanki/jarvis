@@ -85,8 +85,8 @@ body {
 #TextInput {
     background-color: #181818a8;
     border-color: blue;
-    box-shadow: 0 0 20px rgb(255, 0, 0),
-      inset 0 0 0px rgb(255, 140, 0);
+    box-shadow: 0 0 20px rgb(25, 0, 255),
+      inset 0 0 0px rgb(25, 0, 255);
     border-radius: 8px;
     color: white;
     padding: 3px 0px 3px 20px;
